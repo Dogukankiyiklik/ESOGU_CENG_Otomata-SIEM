@@ -1,1 +1,3 @@
-# ESOGU_CENG_Otomata-SIEM
+# Biçimsel Diller ve Otomata SIEM Projesi
+
+Bu proje, USB Radar uygulamasıyla elde edilen log kayıtlarını analiz eden bir uygulamadır. Veriler, XML formatında tanımlanmış Deterministik Sonlu Otomat (DFA) üzerinden işlenerek büyük dosya transferi, aynı anda birden fazla cihaz bağlanması, USB’ye kopyalanan dosyanın silinmesi ve USB’den bilgisayara dosya aktarımı gibi kritik olaylar tespit edilir. Çalışma, SIEM (Security Information and Event Management) yaklaşımıyla logların toplanıp incelenmesini, XML ile esnek DFA tanımlarının yapılmasını ve sonuçların C# Windows Forms arayüzünde kullanıcıya bildirilmesini sağlar.
